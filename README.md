@@ -11,6 +11,7 @@ I am a software engineer from Pesaro
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/LucaPascu19)
 
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23DD2A7B.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/lucapascucci/)
 
 <!--
 **LucaPascucci/LucaPascucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +31,5 @@ Here are some ideas to get you started:
 
 <!-- 
 https://javascript.plainenglish.io/how-to-create-a-kick-ass-github-profile-in-5-minutes-19a8e8d0693b
+https://tapajyoti-bose.medium.com/beautify-your-github-profile-like-a-pro-2f7922895953
 -->

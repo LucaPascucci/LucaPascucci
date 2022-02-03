@@ -1,11 +1,12 @@
-### Hello World 👋
-I am a software engineer from Pesaro
+## Hello World 👋
 
-- 🔭 Working on multiple frontend and backend project using Angular and Spring
-- 🌱 Learning design patterns in depth
+I am Pascu, a software engineer from Pesaro
+
+- 👨‍💻 Working on multiple frontend and backend project using Angular and Spring
+- 📚 Learning design patterns in depth
 <br>
 
-## Connect with me
+## Connect with me ✍️
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luca-pascucci-526190138)
 

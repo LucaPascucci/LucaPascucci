@@ -1,9 +1,10 @@
 ## Hello World 👋
 
-I am Pascu, a software engineer from Pesaro
+I am Pascu, a nomad software engineer from Pesaro
 
 - 👨‍💻 Working on multiple frontend and backend project using Angular and Spring
-- 📚 Learning design patterns in depth
+- 😍 Start loving CI/CD
+- 📚 Learning design patterns in depth 
 <br>
 
 ## Connect with me ✍️
